@@ -1,0 +1,5 @@
+{
+  "name": "RetroArcade Hub",
+  "description": "A collection of classic retro games including Snake, Minesweeper, and Flappy Bird, featuring an AI Arcade Manager powered by Gemini.",
+  "requestFramePermissions": []
+}
